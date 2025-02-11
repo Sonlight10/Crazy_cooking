@@ -8,7 +8,7 @@ import os  # Pour vérifier si l'image existe
 pygame.mixer.init()
 
 # Musiques disponibles
-music_list = ["overcooked.mp3", "instru.mp3", "ff7.mp3", "12.mp3"]
+music_list = ["overcooked.mp3", "instru.mp3", "12.mp3"]
 current_music_index = 0  # Index de la musique actuellement en cours
 
 # Musique initiale
