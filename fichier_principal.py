@@ -153,7 +153,7 @@ def show_credits():
     credits_window.title("Crédits")
     credits_window.geometry("400x200")
     
-    credits_label = tk.Label(credits_window, text="Crédits\n\nDéveloppé par: Baytek Efe et Boudjemaa", font=("Arial", 12), justify="center")
+    credits_label = tk.Label(credits_window, text="Crédits\n\nDéveloppé par: Efe et Idriss", font=("Arial", 12), justify="center")
     credits_label.pack(pady=20)
     
     # Bouton pour fermer la fenêtre des crédits
